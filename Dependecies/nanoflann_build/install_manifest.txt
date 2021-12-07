@@ -1,0 +1,14 @@
+/usr/local/share/cmake/nanoflann/nanoflannTargets.cmake
+/usr/local/share/pkgconfig/nanoflann.pc
+/usr/local/share/cmake/nanoflann/nanoflannConfig.cmake
+/usr/local/share/cmake/nanoflann/nanoflannConfigVersion.cmake
+/usr/local/include/nanoflann.hpp
+/usr/local/examples/dynamic_pointcloud_example
+/usr/local/examples/pointcloud_example
+/usr/local/examples/pointcloud_kdd_radius
+/usr/local/examples/pointcloud_adaptor_example
+/usr/local/examples/SO3_adaptor_example
+/usr/local/examples/SO2_adaptor_example
+/usr/local/examples/saveload_example
+/usr/local/examples/vector_of_vectors_example
+/usr/local/examples/matrix_example

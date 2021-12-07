@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<Plugins>
+  <Plugin name="PythonQtPlugin" auto_load="0"/>
+</Plugins>

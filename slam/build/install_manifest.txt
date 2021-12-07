@@ -1,0 +1,15 @@
+/usr/local/lib/libLidarSlam.so
+/usr/local/include/LidarSlam/CeresCostFunctions.h
+/usr/local/include/LidarSlam/Enums.h
+/usr/local/include/LidarSlam/GlobalTrajectoriesRegistration.h
+/usr/local/include/LidarSlam/KDTreePCLAdaptor.h
+/usr/local/include/LidarSlam/KeypointsMatcher.h
+/usr/local/include/LidarSlam/LidarPoint.h
+/usr/local/include/LidarSlam/LocalOptimizer.h
+/usr/local/include/LidarSlam/MotionModel.h
+/usr/local/include/LidarSlam/PointCloudStorage.h
+/usr/local/include/LidarSlam/RollingGrid.h
+/usr/local/include/LidarSlam/Slam.h
+/usr/local/include/LidarSlam/SpinningSensorKeypointExtractor.h
+/usr/local/include/LidarSlam/Transform.h
+/usr/local/include/LidarSlam/Utilities.h

@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/pointcloud_adaptor_example.dir/pointcloud_adaptor_example.cpp.o  -o pointcloud_adaptor_example 

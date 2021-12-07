@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/vector_of_vectors_example.dir/vector_of_vectors_example.cpp.o  -o vector_of_vectors_example 

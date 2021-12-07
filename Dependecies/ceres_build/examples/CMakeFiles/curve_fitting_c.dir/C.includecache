@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/aziz/catkin_ws/src/ceres/examples/curve_fitting.c
+math.h
+-
+stdio.h
+-
+string.h
+-
+ceres/c_api.h
+/home/aziz/catkin_ws/src/ceres/examples/ceres/c_api.h
+
+/home/aziz/catkin_ws/src/ceres/include/ceres/c_api.h
+ceres/internal/port.h
+/home/aziz/catkin_ws/src/ceres/include/ceres/ceres/internal/port.h
+ceres/internal/disable_warnings.h
+/home/aziz/catkin_ws/src/ceres/include/ceres/ceres/internal/disable_warnings.h
+ceres/internal/reenable_warnings.h
+/home/aziz/catkin_ws/src/ceres/include/ceres/ceres/internal/reenable_warnings.h
+
+/home/aziz/catkin_ws/src/ceres/include/ceres/internal/disable_warnings.h
+
+/home/aziz/catkin_ws/src/ceres/include/ceres/internal/port.h
+ceres/internal/config.h
+/home/aziz/catkin_ws/src/ceres/include/ceres/internal/ceres/internal/config.h
+
+/home/aziz/catkin_ws/src/ceres/include/ceres/internal/reenable_warnings.h
+
+config/ceres/internal/config.h
+

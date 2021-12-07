@@ -1,0 +1,1 @@
+/usr/bin/cc -O3 -DNDEBUG   CMakeFiles/curve_fitting_c.dir/curve_fitting.c.o  -o ../bin/curve_fitting_c ../lib/libceres.a -lm /home/aziz/common-superbuild/glog/build/libglog.a -lpthread /usr/lib/x86_64-linux-gnu/liblapack.so /usr/lib/x86_64-linux-gnu/libblas.so -lstdc++ -lm 

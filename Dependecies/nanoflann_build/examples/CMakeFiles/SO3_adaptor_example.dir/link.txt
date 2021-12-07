@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/SO3_adaptor_example.dir/SO3_adaptor_example.cpp.o  -o SO3_adaptor_example 
